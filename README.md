@@ -1,1 +1,1 @@
-# senor-design
+# senior-design
